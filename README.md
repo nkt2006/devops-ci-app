@@ -9,4 +9,5 @@ CI: Pylint → pytest → Docker build → smoke-test → GHCR.
 - образ: `ghcr.io/nkt2006/devops-ci-app`;
 - основной workflow: `.github/workflows/ci.yml`;
 - образ собирается на ARM64 runner для запуска на учебной VM ARM64.
-Практическая работа 10: Pylint, pytest, Docker и GHCR
+
+Инструкция для последующего развёртывания: [docs/server-setup.md](docs/server-setup.md).
