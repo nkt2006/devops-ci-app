@@ -8,3 +8,5 @@ requirements-dev.txt
 .env
 *.key
 *.pem
+.ansible/
+ansible/
